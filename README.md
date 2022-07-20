@@ -1,8 +1,8 @@
-# chatRoom
+## chatRoom
 
 一个聊天室
 
-# 期望最终效果
+## 期望最终效果
 
 - **用户层面**
 
@@ -14,6 +14,7 @@
 2. mysql作为DataBase
 3. redis作为中间件缓存
 4. JavaScript等实现web效果
+5. 使用Docker-compose实现一键部署
 
-# Updating ... ...
+## Updating ... ...
 
