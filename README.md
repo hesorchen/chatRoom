@@ -1,8 +1,8 @@
-# chatRoom
+## chatRoom
 
 一个聊天室
 
-# 期望最终效果
+## 期望最终效果
 
 - **用户层面**
 
@@ -15,5 +15,5 @@
 3. redis作为中间件缓存
 4. JavaScript等实现web效果
 
-# Updating ... ...
+## Updating ... ...
 
